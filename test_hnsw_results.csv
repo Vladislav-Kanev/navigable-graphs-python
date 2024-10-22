@@ -1,0 +1,8 @@
+method,m,m0,ef,recall,avg calc
+heuristic,32,64,64,1.0,906.21
+heuristic,16,32,64,1.0,648.19
+heuristic,8,16,64,0.998,459.01
+optimized,32,64,64,0.998,1097.17
+optimized,16,32,64,0.9939999999999999,697.43
+optimized,8,16,64,0.972,425.34
+
