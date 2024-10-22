@@ -1,0 +1,23 @@
+method,m,m0,ef,recall,avg calc
+optimized,32,64,64,1.0,797.48
+heuristic,32,64,64,1.0,906.21
+optimized,32,64,64,1.0,797.48
+optimized,32,64,64,1.0,797.48
+optimized,32,64,64,1.0,797.48
+optimized,32,64,64,0.996,606.0
+optimized,32,64,64,1.0,792.08
+optimized,32,64,64,1.0,1041.53
+optimized,32,64,64,1.0,984.59
+optimized,32,64,64,0.996,812.99
+optimized,32,64,64,0.998,803.15
+optimized,32,64,64,0.996,612.53
+optimized,32,64,64,1.0,797.48
+optimized,32,64,64,1.0,797.48
+optimized,32,64,64,0.996,812.99
+optimized,32,64,64,1.0,797.48
+optimized,32,64,64,1.0,797.48
+heuristic,32,64,64,1.0,906.21
+optimized,32,64,64,1.0,797.48
+optimized,32,64,64,1.0,797.48
+optimized,32,64,64,1.0,863.58
+optimized,16,32,64,0.9297,1004.4187
